@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Walton",
+        "id": 1,
+        "web": "https://www.hp.com"
+    },
+    {
+        "name": "Apple",
+        "id": 2,
+        "web": "https://www.apple.com"
+        
+    },
+    {
+        "name": "Lenovo",
+        "id": 3,
+        "web": "https://www.lenovo.com"
+    },
+    {
+        "name": "Android",
+        "id": 4,
+        "web": "https://www.android.com"
+    },
+    {
+        "name": "Nokia",
+        "id": 5,
+        "web": "https://www.nokia.com"
+    },
+    {
+        "name": "Huawei",
+        "id": 6,
+        "web": "https://www.huawei.com"
+    },
+    {
+        "name": "Samsung",
+        "id": 7,
+        "web": "https://www.xiomi.com"
+    }
+]

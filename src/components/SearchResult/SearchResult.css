@@ -1,0 +1,13 @@
+.search-result{
+    border-right: 1px solid #ced4da;
+    border-left: 1px solid #ced4da;
+    border-bottom: 1px solid #ced4da;
+    cursor: pointer;
+    padding: 7px 0 7px 10px;
+    display: block;
+    color: #000;
+    text-decoration: none;
+}
+.search-result:hover{
+    background-color: #ced4da;
+}
